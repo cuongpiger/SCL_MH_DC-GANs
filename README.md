@@ -13,8 +13,5 @@
   * Epoch 150.
     ![](./DCGANs%20-%20CIFAR-10/images/generated_samples/150.png)
 
-  * Epoch 170.
-    ![](./DCGANs%20-%20CIFAR-10/images/generated_samples/170.png)
-
   * Epoch 200.
     ![](./DCGANs%20-%20CIFAR-10/images/generated_samples/200.png)
